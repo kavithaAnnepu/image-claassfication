@@ -2,7 +2,9 @@
 
 This repo contains tutorials covering image classification using PyTorch 1.7, torchvision 0.8, matplotlib 3.3 and scikit-learn 0.24, with Python 3.8. We'll start by implementing a multilayer perceptron (MLP) and then move on to architectures using convolutional neural networks (CNNs). Specifically, we'll implement LeNet, AlexNet, VGG for bengali-CFY daset of digit classification.
 
-Tutorials 1 - Multilayer Perceptron
+Tutorials 
+
+1-Multilayer Perceptron
 
 This tutorial provides an introduction to PyTorch and TorchVision. We'll learn how to: load datasets(preprocessing if cudtom dataset), augment data, define a multilayer perceptron (MLP), train a model, view the outputs of our model, visualize the model's representations, and view the weights of the model. The experiments will be carried out on the Bengali-CFY dataset - a set of 28x28 handwritten digits.
 
